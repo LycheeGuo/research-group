@@ -22,9 +22,12 @@ social:
     link: https://www.researchgate.net/profile/Lizhi-Guo-2
     icon_pack: fab
     icon: researchgate
+  - display:
+      header: false
+    link: https://lizhiguo.netlify.app/
+    icon_pack: ai
+    icon: cv
 organizations:
-  - name: Lizhi's Website
-    url: https://lizhiguo.netlify.app/
   - name: The Chinese University of Hong Kong
     url: https://www.psy.cuhk.edu.hk/index.php/people/postgraduate-students-main
 education:
